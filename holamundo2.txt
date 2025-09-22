@@ -1,2 +1,6 @@
 hola mundo2 desde ternminal!!
+<<<<<<< HEAD
 desde copia!!
+=======
+nuevo cambio en original
+>>>>>>> da76153ca2b3a0be8517b5483fcb94ff3b44add0
